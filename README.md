@@ -85,7 +85,3 @@ I do not assume and hereby disclaim any liability to any party for any damage to
     - https://forum.arduino.cc/index.php?topic=334778.0
 
 - Others
-
-## Donate
-
-If you liked the library and wish to donate you can sent to [PayPal](https://paypal.me/aster94)
